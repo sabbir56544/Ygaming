@@ -29,7 +29,7 @@ SECRET_KEY = '2_p+*bv*oc9*c5s6#-8qz!y*x+$!luevb8yvmra5f4kxauj)tv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'y-gmaing.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'y-gaming-bd.herokuapp.com']
 
 
 # Application definition
